@@ -40,7 +40,7 @@
           <h3>{{.Title}}</h3>
         </a>
         <b>{{.Date.Format "2006-01-02"}}</b><br />
-        <span>{{slicestr .Summary 0 100}}</span><br />
+        <span>{{truncate 100 .Summary}}</span><br />
       </div>
       {{ end }}
     </div>
