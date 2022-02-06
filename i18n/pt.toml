@@ -1,0 +1,74 @@
+[learn_more]
+other = "Descobre mais"
+[featured] 
+other = "Sessões em destaque"
+[all_sessions] 
+other = "Todas as sessões"
+[more_sessions]
+other = "Mais sessões"
+[sponsors] 
+other = "Patrocinadores"
+[become_sponsor]
+other = "Torna-te um patrocinador"
+[more_sponsors]
+other = "Mais patrocinadores"
+[about]
+other = "Sobre"
+[news]
+other = "Notícias"
+[sessions]
+other = "Sessões"
+[ical_add]
+other = "Adicionar à agenda(ficheiro *.ics)"
+[ical_subscribe]
+other = "Subscreve a agenda(webcal)"
+[ical]
+other = "Horários das sessões"
+[register_now]
+other = "Regista-te"
+[attendee]
+other = "Participante" ### translated until here ###
+[call_for_speakers]
+other = "Call for Speakers"
+[host_communities]
+other = "Host Communities"
+[more_hosts]
+other = "More host communities"
+[ubuntu_locos]
+other = "Ubuntu Local Communities"
+[other_foss]
+other = "Other Free and Open Source Communities"
+[diamond_sp]
+other = "Diamond Sponsors"
+[gold_sp]
+other = "Gold Sponsors"
+[silver_sp]
+other = "Silver Sponsors"
+[bronze_sp]
+other = "Bronze Sponsors"
+[supporter_sp]
+other = "Supporter Sponsors"
+[infra_sp]
+other = "Event Infrastructure Sponsors"
+[record_sp]
+other = "Video Recording Sponsors"
+[videoi18n_sp]
+other = "Video Internalization Sponsors"
+[swag_sp]
+other = "Swag Sponsors"
+[partner_cm]
+other = "Partner Communities"
+[name]
+other = "Name"
+[donated_at]
+other = "Purchased donation ticket at"
+[type]
+other = "Type"
+[title]
+other = "Title"
+[language]
+other = "Language"
+[speakers]
+other = "Speakers"
+[session_duration]
+other = "Session duration"
