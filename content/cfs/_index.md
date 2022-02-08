@@ -1,7 +1,7 @@
 ---
 title: Calling for speakers
-externalRedirect: https://eventyay.com/e/75ac7f83/cfs
+externalRedirect: https://eventyay.com/e/xxxxxxxxx/cfs
 ---
 
 Redirecting you to Eventyay platform  
-https://eventyay.com/e/75ac7f83/cfs
+https://eventyay.com/e/xxxxxxxxx/cfs
