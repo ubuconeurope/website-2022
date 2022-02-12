@@ -1,6 +1,6 @@
 baseURL: 'https://2021.ubucon.asia/'
 languageCode: en-us
-title: Ubucon Asia 2021
+title: Ubucon Europe 2022
 theme: ubuconasia
 Paginate: 5
 buildFuture: true
@@ -65,10 +65,6 @@ languages:
           name: News
           url: news
           weight: 5
-        - identifier: wiki
-          name: Wiki
-          url: https://wiki.ubuntu.com/UbuconAsia/2021
-          weight: 6
 
   pt:
     languageName: Português
@@ -128,26 +124,22 @@ languages:
           name: Notícias
           url: news
           weight: 5
-        - identifier: wiki
-          name: Wiki
-          url: https://wiki.ubuntu.com/UbuconAsia/2021
-          weight: 6
 
 params:
-  contact: contact@ubucon.asia
-  calendarOrganizer: Ubucon Asia 2021 Organizers
-  calendarUidSuffix: 2021.asia.ubucon.org
-  facebook: ubuconasia
-  twitter: ubuconasia
-  github: ubucon-asia
-  repo: https://github.com/ubucon-asia/2021
+  contact: contact@ubucon.org
+  calendarOrganizer: Ubucon Europe 2022 Organizers
+  calendarUidSuffix: 2022.europe.ubucon.org
+  facebook: UbuconEurope # check for ownership
+  twitter: ubuconEurope
+  github: ubuconeurope
+  repo: https://github.com/ubuconeurope/website-2022
   copyright:  >-
-    © 2021 Ubucon Asia 2021 Website authors.
-    Except where otherwise noted, Website source code licensed under MIT, Contents licensed under CC BY 4.0. 
+    © 2021 Ubucon Europe 2022 Website authors.
+    Except where otherwise noted, Website source code licensed under MIT, Contents licensed under CC BY 4.0.
     Ubuntu and Canonical are registered trademarks of Canonical Ltd.
-  email: contact@ubucon.asia
+  email: contact@ubucon.org
   registerURLs:
-    attendee: https://eventyay.com/e/75ac7f83
+    attendee: /cfs
     callForSpeakers: /cfs
   timetable:
     dateStart: 2021-09-25T12:00:00+09:00

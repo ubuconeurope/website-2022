@@ -1,8 +1,8 @@
 ---
-title: Calling for speakers
+title: Submissão de Palestras
 # externalRedirect: https://eventyay.com/e/xxxxxxxxx/cfs
 ---
 
-Call for Submitions will open soon.
+Submissão de Palestras será disponibilizada brevemente.
 <!-- Redirecting you to Eventyay platform  
 https://eventyay.com/e/xxxxxxxxx/cfs -->
