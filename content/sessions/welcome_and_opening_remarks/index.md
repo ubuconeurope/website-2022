@@ -12,7 +12,7 @@ speakers: # Speaker info
     #   email:  # Email
       launchpad: https://launchpad.net/xxxx # link to launchpad.net profile
       github: https://github.com/xxxxxxxx # link to github profile
-      profile: profile.jfif # Speaker photo
+      profile: profile.png # Speaker photo
       linkurl: # Other website link url
       linklabel: # Label for linkurl
 ---

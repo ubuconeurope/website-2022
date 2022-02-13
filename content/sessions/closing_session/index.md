@@ -1,6 +1,6 @@
 ---
 title: >
-    Closing session 
+    Closing session
 date: 2021-09-26T19:50:00+09:00
 end: 2021-09-26T20:10:00+09:00
 room: 1
@@ -12,7 +12,7 @@ speakers: # Speaker info
       email:  # Email
       launchpad: https://launchpad.net/~xxxx # link to launchpad.net profile
       github: https://github.com/xxxx # link to github profile
-      profile: profile.jfif # Speaker photo
+      profile: profile.png # Speaker photo
       linkurl: # Other website link url
       linklabel: # Label for linkurl
 ---
